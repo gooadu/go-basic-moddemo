@@ -8,5 +8,5 @@ import (
 
 func main() {
 	pubpkg.Hi()
-	fmt.Println("server is listenning ... @10000")
+	fmt.Println("client running ...")
 }

@@ -1,4 +1,4 @@
-module github.com/gooadu/go-basic-modemo/server
+module github.com/gooadu/go-basic-moddemo/client
 
 go 1.15
 
